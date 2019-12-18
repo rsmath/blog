@@ -1,11 +1,11 @@
 # Site settings
-title: Andrej Karpathy blog
-email: 
-description: "Musings of a Computer Scientist."
-baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+title: Ramansh Sharma blog
+email:
+description: "Musings of a Computer Science student."
+baseurl: '\blog'
+url: "http://ramanshsharma2806.github.io/blog"
+twitter_username: ramanshsharma1
+github_username:  ramanshsharma2806
 
 # Build settings
 markdown: kramdown
