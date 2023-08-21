@@ -1,11 +1,8 @@
 # Site settings
-title: Ramansh Sharma blog
-email:
-description: "Musings of a Computer Science student."
+title: Ramansh Sharma's blog
+description: "Musings of a PhD student."
 baseurl: '\blog'
-url: "http://ramanshsharma2806.github.io/blog"
-twitter_username: ramanshsharma1
-github_username:  ramanshsharma2806
+url: "http://rsmath.github.io/blog"
 
 # Build settings
 markdown: kramdown
