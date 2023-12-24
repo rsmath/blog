@@ -1,6 +1,7 @@
 # Site settings
 title: Ramansh Sharma's blog
 description: "Musings of this one PhD student."
+# baseurl: "/blog"
 baseurl: '\blog'
 url: "http://rsmath.github.io/blog"
 
